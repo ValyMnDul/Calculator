@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Calculator II</title>
+        <link rel="stylesheet" href="Style.css">
+        <script src="Script.js"></script>
+    </head>
+    <body>
+        <div id="Container">
+            <div id="Calculator">
+                <div id="Input_Div">
+                    <input id="Input" placeholder="EnterSomething!" readonly>
+                </div>
+                <div id="Keys">
+                    <button class="Number" onclick="Number(7)">7</button>
+                    <button class="Number" onclick="Number(8)">8</button>
+                    <button class="Number" onclick="Number(9)">9</button>
+                    <button class="Operator" onclick="Operator('+')">+</button>
+                    <button class="Number" onclick="Number(4)">4</button>
+                    <button class="Number" onclick="Number(5)">5</button>
+                    <button class="Number" onclick="Number(6)">6</button>
+                    <button class="Operator" onclick="Operator('-')">-</button>
+                    <button class="Number" onclick="Number(1)">1</button>
+                    <button class="Number" onclick="Number(2)">2</button>
+                    <button class="Number" onclick="Number(3)">3</button>
+                    <button class="Operator" onclick="Operator('*')">*</button>
+                    <button id="Clear" onclick="Clear()">C</button>
+                    <button class="Number" onclick="Number(0)">0</button>
+                    <button id="Egal" onclick="Egal()">=</button>
+                    <button class="Operator" onclick="Operator('/')">/</button>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,106 @@
+
+body
+{
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+}
+#Calculator
+{
+    margin-top: 100px;
+    width: 350px;
+    height:500px;
+    background-color:black;
+    border-radius: 20px;
+    border:3px solid black;
+
+}
+#Input
+{
+    width:343.5px;
+    border-top-left-radius:20px;
+    border-top-right-radius: 20px;
+    height:90px;
+    background-color: black;
+    font-size: 40px;
+    color: white;
+    border:0px;
+    text-align: center;
+}
+#Keys
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    row-gap: 10px;
+    column-gap: 5px;
+    margin: 5px;
+}
+.Number
+{
+    width:80px;
+    height:80px;
+    border-radius: 50%;
+    color: black;
+    font-size: 50px;
+    background-color: cyan;
+}
+.Operator
+{
+    width: 80px;
+    height:80px;
+    border-radius: 50%;
+    color: black;
+    font-size: 50px;
+    background-color: orange;
+}
+#Clear
+{
+    width: 80px;
+    height:80px;
+    border-radius: 50%;
+    color: black;
+    font-size: 50px;
+    background-color: red;
+}
+#Egal
+{
+    width:80px;
+    height:80px;
+    border-radius: 50%;
+    color: black;
+    font-size: 50px;
+    background-color: yellow;
+}
+.Number:hover
+{
+    background-color: rgba(0, 255, 255, 0.799);
+}
+.Operator:hover
+{
+    background-color: rgba(255, 166, 0, 0.842);
+}
+#Clear:hover
+{
+    background-color: rgba(255, 0, 0, 0.804);
+}
+#Egal:hover
+{
+    background-color: rgba(255, 255, 0, 0.826);
+}
+
+.Number:active
+{
+    background-color: rgba(0, 255, 255, 0.644);
+}
+.Operator:active
+{
+    background-color: rgba(255, 166, 0, 0.671);
+}
+#Clear:active
+{
+    background-color: rgba(255, 0, 0, 0.578);
+}
+#Egal:active
+{
+    background-color: rgba(255, 255, 0, 0.671);
+}
