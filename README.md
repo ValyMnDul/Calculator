@@ -2,7 +2,10 @@
 - You have two different calculator designs here.  
 - They are basic calculators made with: `html`, `css` and `js`.  
 - They have a pretty nice appearance and can be used without problems because they have `no bugs`.  
-- Both use the `eval()` function to calculate the value that is in the `input`.  
+- Both use the `eval()` function to calculate the value that is in the `input`.
+
+![Designs](./MD_Assets/Designs.png)
+
 ## 📦 How to Run
 
 Clone the repo
