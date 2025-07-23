@@ -24,6 +24,3 @@ If you want the second design, go to the `Design 2` directory and open the `Inde
 ```bash
 cd Design\ 2 && open Index.html
 ```  
-## 📄 License
-This project is open-source under the MIT License.
-  
