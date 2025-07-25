@@ -24,3 +24,9 @@ If you want the second design, go to the `Design 2` directory and open the `Inde
 ```bash
 cd Design\ 2 && open Index.html
 ```  
+
+## 📤 Contributing
+
+Pull requests are welcome! If you'd like to contribute or suggest features, feel free to open an issue or fork the repo.
+
+---
