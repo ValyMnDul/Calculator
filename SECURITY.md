@@ -1,7 +1,14 @@
-# Security Policy
+# 🔒 Security Policy
 
-This application does not contain any known `vulnerabilities` at this time.
+🛡️ **Current Status:**  
+This application does **not contain any known vulnerabilities** at this time.
 
-If you discover a security issue, you can open an `issue` or report it `privately`.
+🚨 **Found something suspicious?**  
+If you discover a potential security issue, please:
 
-Thank you!
+- 🐞 Open an [issue](../../issues) **publicly**, _or_
+- ✉️ Report it **privately** via email (mindrilavasilevalentin@gmail.com) or another secure channel
+
+🙌 We appreciate your help in keeping this project safe and secure!
+
+**Thank you!** 💙
