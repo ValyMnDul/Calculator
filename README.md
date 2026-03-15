@@ -6,7 +6,7 @@
 
 ![Designs](./MD_Assets/Designs.png)
 
-## 📦 How to Run
+## How to Run
 
 Clone the repo
 ```bash
@@ -25,7 +25,7 @@ If you want the second design, go to the `Design 2` directory and open the `Inde
 cd Design\ 2 && open Index.html
 ```  
 
-## 📤 Contributing
+## Contributing
 
 Pull requests are welcome! If you'd like to contribute or suggest features, feel free to open an issue or fork the repo.
 
