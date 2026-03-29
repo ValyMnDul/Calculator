@@ -28,5 +28,3 @@ cd Design\ 2 && open Index.html
 ## Contributing
 
 Pull requests are welcome! If you'd like to contribute or suggest features, feel free to open an issue or fork the repo.
-
----
