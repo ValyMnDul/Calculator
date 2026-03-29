@@ -23,7 +23,10 @@ cd Design\ 1 && open index.html
 If you want the second design, go to the `Design 2` directory and open the `Index.html` file.
 ```bash
 cd Design\ 2 && open Index.html
-```  
+```
+### OR
+
+Open the link attached
 
 ## Contributing
 
